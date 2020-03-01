@@ -6,7 +6,7 @@ author_profile: true
 ---
 | Professor                                       | Fachbereich  |
 |-------------------------------------------------+--------------|
-|                                                 |              |
+| Liste der Professoren folgt                     |              |
 |                                                 |              |
 |                                                 |              |
 |                                                 |              |
